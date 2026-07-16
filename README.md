@@ -119,6 +119,9 @@ Full Stack Placement Preparation Platform
 
 </p>
 
+![Contributions](https://img.shields.io/badge/Contributions-620-brightgreen?style=for-the-badge)
+![Current Streak](https://img.shields.io/badge/Streak-42_days-orange?style=for-the-badge)
+
 ---
 
 
