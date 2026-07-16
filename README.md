@@ -11,7 +11,7 @@
 
 - 🎓 B.Tech in Computer Science (Data Science)
 - 💡 Interested in **Software Engineering, AI/ML, Deep Learning, Generative AI & Backend Development**
-- 💡 Experienced with LLMs, RAG, Machine Learning, Deep Learning, and Full-Stack Development
+- 💡 Experienced with LLMs, RAG, Machine Learning, Deep Learning,Transformers and Full-Stack Development
 - 🌱 Exploring Agentic AI, MCP, AI Agents, and Advanced System Design
 - 💻 Solving Data Structures & Algorithms problems regularly
 - 🌍 Open Source Contributor
@@ -50,13 +50,15 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### GenAI
+## 🤖 Generative AI
 
-- Large Language Models (LLMs)
-- Retrieval Augmented Generation (RAG)
-- LangChain
-- Google Gemini API
-- Vertex AI
+<p align="left">
+  <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-0052CC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
 
 ### Web Development
 
@@ -111,11 +113,7 @@ Full Stack Placement Preparation Platform
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShrutiPatel263&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://streak-stats.demolab.com?user=ShrutiPatel263&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiPatel263&layout=compact&theme=tokyonight"/>
+<img width="1712" height="757" alt="ChatGPT Image Jul 16, 2026, 11_58_07 AM" src="https://github.com/user-attachments/assets/6daa7a02-c1fa-4cfd-aac4-d588a5694867" />
 
 </p>
 
