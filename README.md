@@ -105,8 +105,9 @@ Full Stack Placement Preparation Platform
 ---
 
 ## 📊 GitHub Stats
+## 📈 Contribution Graph
 
-## 📊 GitHub Stats
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShrutiPatel263&theme=tokyo-night)](https://github.com/ShrutiPatel263)
 
 <p align="center">
 
