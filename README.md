@@ -284,8 +284,6 @@ Full-stack placement preparation platform designed to help students prepare for 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiPatel263&layout=compact&langs_count=8" alt="Top Languages"/>
 </p>
 
-> 📌 GitHub statistics above are dynamically generated — no contribution count is manually hard-coded.
-
 ---
 
 # 🧩 What I'm Exploring
