@@ -327,20 +327,6 @@ I regularly practice:
 
 ---
 
-# 🌐 Portfolio
-
-<p align="center">
-
-### Explore my work, research and projects
-
-<a href="https://shruti-code-research.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-8A2BE2?style=for-the-badge" alt="Portfolio"/>
-</a>
-
-</p>
-
----
-
 # 🤝 Let's Connect
 
 <p align="center">
@@ -363,5 +349,5 @@ I regularly practice:
 </p>
 
 <p align="center">
-  ⭐ If you find my projects interesting, consider giving them a star!
+  <i>"Jack of all trades, master of ML, DL & Generative AI — I believe versatility is a strength, and mastery is a choice."</i>
 </p>
