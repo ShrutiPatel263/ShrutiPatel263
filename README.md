@@ -270,20 +270,19 @@ Full-stack placement preparation platform designed to help students prepare for 
 
 ---
 
-# 📈 GitHub Activity
+# 📊 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShrutiPatel263" alt="GitHub Streak"/>
+
+<img src="https://github-readme-streak-stats.demolab.com?user=ShrutiPatel263" alt="GitHub Streak"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShrutiPatel263&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiPatel263&layout=compact&langs_count=8" alt="Top Languages"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShrutiPatel263" alt="GitHub Contribution Summary"/>
 
+</p>
 ---
 
 # 🧩 What I'm Exploring
