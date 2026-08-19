@@ -270,6 +270,13 @@ Full-stack placement preparation platform designed to help students prepare for 
 
 ---
 
+## ⚡ StreamAPI — Backend API
+
+**StreamAPI** is a backend-focused application designed to provide scalable REST APIs and robust server-side functionality.
+Built with a clean backend architecture, API routing, database integration and production-oriented development practices.
+
+**Tech:** Node.js · Express · MongoDB · REST API
+
 ## 📊 GitHub
 
 <p align="center">
@@ -281,7 +288,6 @@ Full-stack placement preparation platform designed to help students prepare for 
 <p align="center">
   <i>Building, contributing, learning and shipping — one commit at a time.</i>
 </p>
----
 
 # 🧩 What I'm Exploring
 
