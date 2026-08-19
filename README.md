@@ -273,9 +273,9 @@ Full-stack placement preparation platform designed to help students prepare for 
 ## 📊 GitHub
 
 <p align="center">
-  <a href="https://github.com/ShrutiPatel263">
-    <img src="https://img.shields.io/badge/GitHub-ShrutiPatel263-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShrutiPatel263" alt="GitHub Contribution Summary"/>
+
 </p>
 
 <p align="center">
