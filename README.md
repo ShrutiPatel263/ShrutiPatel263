@@ -270,18 +270,16 @@ Full-stack placement preparation platform designed to help students prepare for 
 
 ---
 
-# 📊 GitHub Highlights
+## 📊 GitHub
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.demolab.com?user=ShrutiPatel263" alt="GitHub Streak"/>
-
+  <a href="https://github.com/ShrutiPatel263">
+    <img src="https://img.shields.io/badge/GitHub-ShrutiPatel263-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShrutiPatel263" alt="GitHub Contribution Summary"/>
-
+  <i>Building, contributing, learning and shipping — one commit at a time.</i>
 </p>
 ---
 
