@@ -252,7 +252,6 @@ An intelligent financial assistant using **Retrieval-Augmented Generation** to a
 * ChromaDB vector store
 * Dual knowledge sources
 * Automated financial analytics
-* 5+ financial metrics
 
 **Tech:** Python • LangChain • Gemini • ChromaDB • RAG • Pandas
 
