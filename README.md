@@ -270,12 +270,15 @@ Full-stack placement preparation platform designed to help students prepare for 
 
 ---
 
-## ⚡ StreamAPI — Backend API
+## ⚡ StreamAPI — Video Streaming Backend
 
-**StreamAPI** is a backend-focused application designed to provide scalable REST APIs and robust server-side functionality.
-Built with a clean backend architecture, API routing, database integration and production-oriented development practices.
+**StreamAPI** is a scalable RESTful backend for a video-streaming platform with JWT authentication, video management, comments, likes, subscriptions and tweets.  
+Built with **Node.js, Express.js and MongoDB**, with Cloudinary for media storage and a complete Postman API collection for testing.
 
-**Tech:** Node.js · Express · MongoDB · REST API
+**Tech:** Node.js · Express.js · MongoDB Atlas · JWT · Bcrypt · Cloudinary · Postman
+
+🔗 [View Repository](https://github.com/ShrutiPatel263/StreamAPI)
+
 
 ## 📊 GitHub
 
