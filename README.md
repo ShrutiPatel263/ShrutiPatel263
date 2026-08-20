@@ -261,11 +261,13 @@ An intelligent financial assistant using **Retrieval-Augmented Generation** to a
 
 ## 🎓 CampusBridge
 
-Full-stack placement preparation platform designed to help students prepare for placements.
+A production-ready full-stack placement preparation platform that bridges the gap between juniors and placed seniors through **real interview experiences, company-wise preparation, and data-driven insights**.
 
-**Tech:** React • Node.js • Express • MongoDB
+🚀 **Live Product:** Used by **20+ real students** and actively maintained.
 
-🔗 [View Repository](https://github.com/ShrutiPatel263/campus-bridge)
+**Tech:** React • Tailwind CSS • Node.js • Express.js • MongoDB • JWT • Recharts
+
+🔗 [Live Demo](https://campus-bridge-one.vercel.app) • [View Repository](https://github.com/ShrutiPatel263/campus-bridge)
 
 ---
 
