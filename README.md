@@ -287,7 +287,7 @@ Built with **Node.js, Express.js and MongoDB**, with Cloudinary for media storag
 
 ## 📊 GitHub
 
-<!-- <p align="center">
+<p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShrutiPatel263" alt="GitHub Contribution Summary"/>
 
@@ -295,14 +295,14 @@ Built with **Node.js, Express.js and MongoDB**, with Cloudinary for media storag
 
 <p align="center">
   <i>Building, contributing, learning and shipping — one commit at a time.</i>
-</p> -->
+</p>
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=ShrutiPatel263&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&dates=2DD4BF"
     alt="GitHub Streak Stats"
   />
-</p>
+</p> -->
 
 # 🧩 What I'm Exploring
 
