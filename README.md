@@ -1,6 +1,10 @@
+<div align="center">
+
 # 👋 Hi, I'm Shruti Patel
 
 ### AI/ML Engineer • Machine Learning • Generative AI • Software Engineering • Research
+
+</div>
 
 <p align="center">
   <b>Building intelligent systems that turn ideas into real-world applications.</b>
